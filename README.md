@@ -10,3 +10,6 @@ Model统一管理
 ```
 bee generate appcode -tables="ier_resoure_explain_rel" -conn="root:yxp@tcp(127.0.0.1:3306)/ireport"
 ```
+
+本人博客：[小小咪的博客](http://12yxp.top/)
+IT教程站：[教程搬运](https://12byg.com/)
