@@ -1,2 +1,2 @@
-*.h linguist-language=golang
-*.m linguist-language=golang
+*.h linguist-language=go
+*.m linguist-language=go
