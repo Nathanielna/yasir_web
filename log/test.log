@@ -1,0 +1,7 @@
+2020/02/09 19:30:24.651 [I] [asm_amd64.s:1337]  http server Running on http://:80
+2020/02/09 19:30:24.651 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2020/02/09 19:30:24.661 [C] [asm_amd64.s:1337]  ListenAndServe:  listen tcp :80: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/02/09 19:30:24.661 [C] [asm_amd64.s:1337]  Admin ListenAndServe:  listen tcp :8088: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted. 10164
+2020/02/09 19:30:40.424 [I] [asm_amd64.s:1337]  http server Running on http://:80
+2020/02/09 19:30:40.424 [I] [asm_amd64.s:1337]  Admin server Running on :8088
+2020/02/09 19:30:40.434 [C] [asm_amd64.s:1337]  ListenAndServe:  listen tcp :80: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
